@@ -15,7 +15,7 @@ Visit the live portfolio: [https://sethsec32.github.io/sethsec.github.io](https:
 ## Contact
 
 - Email: me@sethsec.tech
-- LinkedIn: [https://linkedin.com/in/sethcyber](https://linkedin.com/in/sethcyber)
+- LinkedIn: [https://www.linkedin.com/in/seth-adeyemi-719056349/](https://www.linkedin.com/in/seth-adeyemi-719056349/)
 - GitHub: [https://github.com/SethSec32](https://github.com/SethSec32)
 
 Feel free to explore and reach out!
